@@ -8,13 +8,15 @@ function MainContent() {
         textAlign: 'center'
       }}
     >
-      <h2 style={{ color: '#333' }}>Welcome to the Cities Page</h2>
-      <p style={{ fontSize: '18px', marginTop: '10px' }}>
-        Explore beautiful cities around the world!
+      <h2 style={{ color: '#333' }}>Welcome to My Cities Page</h2>
+
+      <p style={{ fontSize: '18px', marginTop: '15px' }}>
+        I love to visit New York, Paris, and Tokyo.
       </p>
     </main>
   );
 }
 
 export default MainContent;
+
 
